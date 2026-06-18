@@ -11,9 +11,7 @@ Backend Engineer • Golang • Distributed Systems
 </p>
 I enjoy building scalable backend systems, distributed services, and high-performance applications.
 
-Currently focused on:
-
-Building production-grade backend projects in Go
+Currently focused on, building production-grade backend projects in Go
 Distributed Systems and System Design
 Kafka, Redis, Docker, and Cloud Technologies
 
