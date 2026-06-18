@@ -36,7 +36,7 @@ A Redis-inspired distributed key-value store supporting persistence, replication
 
 ---
 
-### ⚖️ [Go Load Balancer](https://github.com/RishavSinha20/GoBalancer)
+### ⚖️ [GoBalancer](https://github.com/RishavSinha20/GoBalancer)
 
 **Go • Reverse Proxy • Concurrency**
 
