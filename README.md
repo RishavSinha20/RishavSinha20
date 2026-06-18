@@ -1,17 +1,14 @@
-## <h1 align="center">Hi, I'm Rishav Sinha</h1>
+## <h1 align="center">Hello there, I'm Rishav 👋 </h1>
 
 <p align="center">
 Backend Engineer • Golang • Distributed Systems
 </p>
 
 <p align="center">
-<a href="mailto:yourmail@gmail.com">📧 Email</a> •
-<a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a> •
+<a href="mailto:rishavsinha61@gmail.com">📧 Email</a> •
+<a href="https://www.linkedin.com/in/rishav-sinha-1a269a282/">💼 LinkedIn</a> •
 <a href="https://rishavsinha20.github.io/portfolio">🌐 Portfolio</a>
 </p>
-## Hello, I'm Rishav 👋
-Backend Engineer | Golang Developer | Distributed Systems Enthusiast
-
 I enjoy building scalable backend systems, distributed services, and high-performance applications.
 
 Currently focused on:
@@ -19,7 +16,6 @@ Currently focused on:
 Building production-grade backend projects in Go
 Distributed Systems and System Design
 Kafka, Redis, Docker, and Cloud Technologies
-Competitive Programming
 
 
 ## 🧑‍💻 About Me
@@ -29,7 +25,6 @@ Backend Engineer focused on Distributed Systems, Concurrency, and Scalable Infra
 - 🔭 Building production-grade systems in Go
 - 🌱 Learning Kubernetes and Cloud Infrastructure
 - ⚡ Interested in Distributed Systems and Performance Engineering
-- 🏆 Solving problems on Codeforces
 
 ---
 
