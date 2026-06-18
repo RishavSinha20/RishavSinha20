@@ -1,3 +1,15 @@
+Hi, I'm Rishav Sinha 👋
+Backend Engineer | Golang Developer | Distributed Systems Enthusiast
+
+I enjoy building scalable backend systems, distributed services, and high-performance applications.
+
+Currently focused on:
+
+Building production-grade backend projects in Go
+Distributed Systems and System Design
+Kafka, Redis, Docker, and Cloud Technologies
+Competitive Programming
+
 ## 🧑‍💻 About Me
 
 Backend Engineer focused on Distributed Systems, Concurrency, and Scalable Infrastructure.
