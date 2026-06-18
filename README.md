@@ -1,97 +1,50 @@
-# Hi, I'm Rishav Sinha 👋
+## 🧑‍💻 About Me
 
-### Backend Engineer | Golang Developer | Distributed Systems Enthusiast
+Backend Engineer focused on Distributed Systems, Concurrency, and Scalable Infrastructure.
 
-I enjoy building scalable backend systems, distributed services, and high-performance applications.
-
-Currently focused on:
-
-* Building production-grade backend projects in Go
-* Distributed Systems and System Design
-* Kafka, Redis, Docker, and Cloud Technologies
-* Competitive Programming
+- 🔭 Building production-grade systems in Go
+- 🌱 Learning Kubernetes and Cloud Infrastructure
+- ⚡ Interested in Distributed Systems and Performance Engineering
+- 🏆 Solving problems on Codeforces
 
 ---
 
-## 🚀 About Me
+## 🧪 Projects
 
-* 🎓 Computer Science Graduate
-* 💼 Software Engineer
-* 🌱 Learning Distributed Systems and Cloud Infrastructure
-* ⚡ Interested in Backend Engineering, Scalability, and Performance
-* 🏆 Solving problems on Codeforces and LeetCode
+### 🗄️ [KVault](https://github.com/RishavSinha20/kvault)
 
----
+**Go • TCP • WAL • Replication**
 
-## 🛠️ Tech Stack
-
-### Languages
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-
-### Backend
-
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
-
-### Databases
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
----
-## 🚀 Featured Projects
-
-### 🔹 [KVault](https://github.com/RishavSinha20/kvault)
-
-Redis-inspired distributed key-value store built in Go.
-
-**Tech:** Go, TCP, WAL, Replication, Concurrency
+A Redis-inspired distributed key-value store supporting persistence, replication, and fault-tolerant recovery.
 
 ---
 
-### 🔹 [CricStream](https://github.com/RishavSinha20/cricstream)
+### ⚖️ [Go Load Balancer](https://github.com/RishavSinha20/loadbalancer)
 
-Real-time cricket analytics platform powered by event streaming.
+**Go • Reverse Proxy • Concurrency**
 
-**Tech:** Go, Kafka, Spark, Redis, Docker
-
----
-
-### 🔹 [Go Load Balancer](https://github.com/RishavSinha20/loadbalancer)
-
-Production-inspired reverse proxy and load balancer.
-
-**Tech:** Go, Reverse Proxy, Health Checks, Goroutines
+Production-inspired load balancer featuring round-robin scheduling, health checks, and backend failover.
 
 ---
 
-### 🔹 [Portfolio Website](https://github.com/RishavSinha20/portfolio)
+### 📊 [CricStream](https://github.com/RishavSinha20/cricstream)
 
-Personal portfolio showcasing projects, skills, and technical experience.
+**Go • Kafka • Spark • Redis • Docker**
 
-**Tech:** HTML, CSS, JavaScript
+Real-time cricket analytics platform powered by event streaming and distributed processing.
 
+---
 
+### 🌐 [Portfolio Website](https://github.com/RishavSinha20/portfolio)
+
+**HTML • CSS • JavaScript**
+
+Personal portfolio showcasing projects, technical skills, and engineering experience.
+
+---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishavSinha20\&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=RishavSinha20&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RishavSinha20\&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: https://linkedin.com/in/YOUR_LINK
-* Portfolio: https://YOUR_PORTFOLIO
-* Email: YOUR_EMAIL
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RishavSinha20&layout=compact&theme=github_dark)
