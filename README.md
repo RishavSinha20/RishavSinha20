@@ -101,16 +101,6 @@ Production-inspired reverse proxy and load balancer.
 
 ---
 
-## 🎯 2026 Goals
-
-* Build production-grade distributed systems
-* Reach Specialist on Codeforces
-* Deep dive into Kubernetes
-* Contribute to Open Source
-* Land a backend engineering role focused on scalability
-
----
-
 ## 📫 Connect With Me
 
 * LinkedIn: https://linkedin.com/in/YOUR_LINK
