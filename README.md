@@ -62,6 +62,4 @@ Personal portfolio showcasing projects, technical skills, and engineering experi
 
 ---
 
-## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RishavSinha20&show_icons=true&theme=github_dark)
