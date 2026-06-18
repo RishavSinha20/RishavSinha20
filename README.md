@@ -48,50 +48,39 @@ Currently focused on:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
+## 🚀 Featured Projects
 
-## 📌 Featured Projects
+### 🔹 [KVault](https://github.com/RishavSinha20/kvault)
 
-### KVault
+Redis-inspired distributed key-value store built in Go.
 
-A Redis-inspired distributed key-value store built in Go.
-
-**Highlights**
-
-* Concurrent request handling using Goroutines
-* Write-Ahead Logging (WAL)
-* Replication support
-* Leader election
-* Persistence and recovery
+**Tech:** Go, TCP, WAL, Replication, Concurrency
 
 ---
 
-### CricStream
+### 🔹 [CricStream](https://github.com/RishavSinha20/cricstream)
 
-Real-time cricket analytics platform.
+Real-time cricket analytics platform powered by event streaming.
 
-**Highlights**
-
-* Kafka-based event streaming
-* Spark data processing
-* Redis caching
-* Dockerized deployment
-* Live analytics pipeline
+**Tech:** Go, Kafka, Spark, Redis, Docker
 
 ---
 
-### Go Load Balancer
+### 🔹 [Go Load Balancer](https://github.com/RishavSinha20/loadbalancer)
 
 Production-inspired reverse proxy and load balancer.
 
-**Highlights**
-
-* Round-robin scheduling
-* Health checks
-* Config-driven architecture
-* Reverse proxy implementation
-* Concurrency-focused design
+**Tech:** Go, Reverse Proxy, Health Checks, Goroutines
 
 ---
+
+### 🔹 [Portfolio Website](https://github.com/RishavSinha20/portfolio)
+
+Personal portfolio showcasing projects, skills, and technical experience.
+
+**Tech:** HTML, CSS, JavaScript
+
+
 
 ## 📈 GitHub Stats
 
